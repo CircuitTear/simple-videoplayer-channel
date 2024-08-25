@@ -34,7 +34,7 @@ sub setContent()
   'm.Image.uri="pkg:/images/DanGilbert.jpg"
   'ContentNode = CreateObject("roSGNode", "ContentNode")
   'ContentNode.streamFormat = "mp4"
-  'ContentNode.url = "http://video.ted.com/talks/podcast/DanGilbert_2004_480.mp4"
+  'ContentNode.url = "https://ia600101.us.archive.org/6/items/Popcornarchive-insideOut2hd/Popcornarchive-insideOut2hd.mp4"
   'ContentNode.ShortDescriptionLine1 = "Dan Gilbert asks, Why are we happy?"
   'ContentNode.Description = "Harvard psychologist Dan Gilbert says our beliefs about what will make us happy are often wrong -- a premise he supports with intriguing research, and explains in his accessible and unexpectedly funny book, Stumbling on Happiness."
   'ContentNode.StarRating = 80
